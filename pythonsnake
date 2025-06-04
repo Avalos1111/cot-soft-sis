@@ -1,0 +1,11 @@
+def python_snake(xs):
+    for i in range (len(xs)):
+        row = [["", "H", ""]
+               ["X", "X", ""]
+               ["X", "x", "T"]]
+        matrix.append(row)
+        long =len(xs)
+        may = max (xs)
+        pivote = 3
+        matrix = []
+        return matrix
